@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46155c882dbf8b84198ce7fc1da44de2, type: 3}
+  m_Name: auto Event
+  m_EditorClassIdentifier: 
+  conditions: []
+  howToStart: 3
+  floatEpsilon: 0.001
+  list:
+  - type: 8
+    _name: 
+    text: 
+    sp: 
+    showFace: 1
+    time: 0
+    key: hello world
+    howToCal: 0
+    globalInt: 0
+    globalFloat: 0
+    globalSwitch: 1

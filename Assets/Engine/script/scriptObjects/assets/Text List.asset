@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001a27562e6b8d74bb1523afa8c71aba, type: 3}
+  m_Name: Text List
+  m_EditorClassIdentifier: 
+  list:
+  - key: startBtn
+    chnText: "\u5F00\u59CB\u6E38\u620F"
+    engText: Start
+  - key: continueBtn
+    chnText: "\u7EE7\u7EED\u6E38\u620F"
+    engText: Continue
+  - key: optionBtn
+    chnText: "\u9009\u9879"
+    engText: Option
+  - key: btn1
+    chnText: "\u9053\u5177"
+    engText: Item
+  - key: btn2
+    chnText: "\u6280\u80FD"
+    engText: Skill
+  - key: btn3
+    chnText: "\u88C5\u5907"
+    engText: Equip
+  - key: btn4
+    chnText: "\u72B6\u6001"
+    engText: Status
+  - key: btn5
+    chnText: "\u7F16\u961F"
+    engText: Formation
+  - key: btn6
+    chnText: "\u4EFB\u52A1"
+    engText: Quest
+  - key: btn7
+    chnText: "\u9009\u9879"
+    engText: Option
+  - key: btn8
+    chnText: "\u4FDD\u5B58"
+    engText: Save
+  - key: btn9
+    chnText: "\u7ED3\u675F"
+    engText: Game End
+  - key: alwaysRun
+    chnText: "\u65F6\u5E38\u5954\u8DD1"
+    engText: AlwaysRun
+  - key: Command Remember
+    chnText: "\u4FDD\u5B58\u6307\u4EE4"
+    engText: Command Remember
+  - key: WindowSize
+    chnText: "\u5C4F\u5E55\u5927\u5C0F"
+    engText: Screen Size
+  - key: BGM
+    chnText: "BGM \u97F3\u91CF"
+    engText: BGM Volume
+  - key: SE
+    chnText: "SE\u97F3\u91CF"
+    engText: SE Volume
+  - key: language
+    chnText: "\u8BED\u8A00"
+    engText: Language
+  - key: item
+    chnText: "\u9053\u5177"
+    engText: Item
+  - key: weapon
+    chnText: "\u6B66\u5668"
+    engText: Weapon
+  - key: clothes
+    chnText: "\u88C5\u5907"
+    engText: Clothes
+  - key: keyItem
+    chnText: "\u5173\u952E\u9053\u5177"
+    engText: KeyItem
+  - key: exit
+    chnText: "\u9000\u51FA\u6E38\u620F"
+    engText: Exit
+  - key: cancel
+    chnText: "\u53D6\u6D88"
+    engText: Cancel
+  - key: save hint
+    chnText: "\u8BF7\u9009\u62E9\u4E00\u4E2A\u6587\u4EF6"
+    engText: Please select a file.
+  - key: save
+    chnText: "\u4FDD\u5B58"
+    engText: Save
+  - key: load
+    chnText: "\u8F7D\u5165"
+    engText: Load
+  - key: delete
+    chnText: "\u5220\u9664"
+    engText: Delete
+  - key: flower
+    chnText: "\u82B1"
+    engText: Flower
+  - key: hat
+    chnText: "\u5E3D\u5B50"
+    engText: Hat
+  - key: test item
+    chnText: "\u6D4B\u8BD5\u9053\u5177"
+    engText: Test item
+  - key: test item2
+    chnText: "\u6D4B\u8BD5\u9053\u51772"
+    engText: Test item2
