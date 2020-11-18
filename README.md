@@ -2,7 +2,7 @@
 因兴趣而自己研究的一套基于unity的RPG解密游戏框架，目标是为无计算机基础的开发者朋友省去代码工作。<br/>
 整体结构仿照RPGMaker而设计，用户通过使用写好的功能，在unity编辑器内自行设计相关的数据和功能文件而完成开发。<br/>
 相关文件采用scriptobject，用户可在资源窗口内右键新建对应文件，之后使用设计好的编辑器界面来完成操作<br>
-主要功能：<br>
+<span id="jump">主要功能：</span><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#jump1">1.流程控制</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#jump2">2.全局变量</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#jump3">3.资源管理</a><br>
@@ -12,7 +12,7 @@
 其余主要功能如存档，道具和任务系统，角色控制，场景可交互事件等等由Prefab提供。<br>
 
 <br/>
-<span id="jump1">1.流程控制：</span><br/>
+<span id="jump1">1.流程控制： <a href="#jump">返回</a></span><br>
 用户可为游戏添加用于控制流程的事件列表，事件列表支持以下用途。<br/>
 a. 剧情，场景内主线和支线流程的控制，与全局变量结合使用。<br/>
 b. 调查事件，调查场景内某些物品出现的重复事件，一次性事件等等。<br/>
