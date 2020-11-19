@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c02b0d531911fe544923e25cffde2352, type: 3}
+  m_Name: Quest List
+  m_EditorClassIdentifier: 
+  list:
+  - id: 1
+    status: 0
+    type: 0
+    name: quest.q1
+    hard: "\u2605"
+    text: quest.d1
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q1s1
+    - quest.q1s2
+    - quest.q1s3
+    stepNum: 3
+  - id: 2
+    status: 0
+    type: 1
+    name: quest.q2
+    hard: "\u2605"
+    text: quest.d2
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q2s1
+    - quest.q2s2
+    stepNum: 2
+  - id: 3
+    status: 0
+    type: 0
+    name: quest.q3
+    hard: "\u2605\u2605"
+    text: quest.d3
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q3s1
+    - quest.q3s2
+    - quest.q3s3
+    stepNum: 3
+  - id: 4
+    status: 0
+    type: 0
+    name: quest.q4
+    hard: "\u2605\u2605"
+    text: quest.d4
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q4s1
+    stepNum: 1
+  - id: 5
+    status: 0
+    type: 1
+    name: quest.q5
+    hard: "\u2605"
+    text: quest.d5
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q5s1
+    stepNum: 1
+  - id: 6
+    status: 0
+    type: 0
+    name: quest.q6
+    hard: "\u2605\u2605\u2605"
+    text: quest.d6
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q6s1
+    - quest.q6s2
+    stepNum: 2
+  - id: 7
+    status: 0
+    type: 0
+    name: quest.q7
+    hard: "\u2605\u2605\u2605"
+    text: quest.d7
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q7s1
+    - quest.q7s2
+    - quest.q7s3
+    stepNum: 3
+  - id: 8
+    status: 0
+    type: 1
+    name: quest.q8
+    hard: "\u2605"
+    text: quest.d8
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q8s1
+    - quest.q8s2
+    stepNum: 2
+  - id: 9
+    status: 0
+    type: 0
+    name: quest.q9
+    hard: "\u2605\u2605\u2605"
+    text: quest.d9
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q9s1
+    - quest.q9s2
+    - quest.q9s3
+    stepNum: 3
+  - id: 10
+    status: 0
+    type: 0
+    name: quest.q10
+    hard: "\u2605\u2605"
+    text: quest.d10
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q10s1
+    - quest.q10s2
+    - quest.q10s3
+    stepNum: 3
+  - id: 11
+    status: 0
+    type: 0
+    name: quest.q11
+    hard: "\u2605\u2605\u2605\u2605\u2605"
+    text: quest.d11
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q11s1
+    - quest.q11s2
+    - quest.q11s3 - quest.q11s4
+    stepNum: 4
+  - id: 12
+    status: 0
+    type: 0
+    name: quest.q12
+    hard: "\u2605\u2605"
+    text: quest.d12
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q12s1
+    - quest.q12s2
+    stepNum: 2
+  - id: 13
+    status: 0
+    type: 0
+    name: quest.q13
+    hard: "\u2605\u2605\u2605\u2605\u2605"
+    text: quest.d13
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q13s1
+    - quest.q13s2
+    - quest.q13s3 - quest.q13s4
+    stepNum: 4
+  - id: 14
+    status: 0
+    type: 1
+    name: quest.q14
+    hard: "\u2605\u2605\u2605"
+    text: quest.d14
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q14s1
+    stepNum: 1
+  - id: 15
+    status: 0
+    type: 1
+    name: quest.q15
+    hard: "\u2605\u2605"
+    text: quest.d15
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q15s1
+    - quest.q15s2
+    - quest.q15s3
+    stepNum: 3
+  - id: 16
+    status: 0
+    type: 1
+    name: quest.q16
+    hard: "\u2605"
+    text: quest.d16
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps: []
+    stepNum: 0
+  - id: 17
+    status: 0
+    type: 2
+    name: quest.q17
+    hard: "\u2605\u2605"
+    text: quest.d17
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q17s1
+    stepNum: 1
+  - id: 18
+    status: 0
+    type: 1
+    name: quest.q18
+    hard: "\u2605\u2605"
+    text: quest.d18
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q18s1
+    - quest.q18s2
+    stepNum: 2
+  - id: 19
+    status: 0
+    type: 2
+    name: quest.q19
+    hard: "\u2605\u2605"
+    text: quest.d19
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q19s1
+    stepNum: 1
+  - id: 20
+    status: 0
+    type: 2
+    name: quest.q20
+    hard: "\u2605\u2605\u2605\u2605\u2605"
+    text: quest.d20
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q20s1
+    stepNum: 1
+  - id: 21
+    status: 0
+    type: 2
+    name: quest.q21
+    hard: "\u2605\u2605\u2605\u2605"
+    text: quest.d21
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q21s1
+    stepNum: 1
+  - id: 22
+    status: 0
+    type: 1
+    name: quest.q22
+    hard: "\u2605\u2605\u2605"
+    text: quest.d22
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q22s1
+    - quest.q22s2
+    - quest.q22s3
+    stepNum: 3
+  - id: 23
+    status: 0
+    type: 1
+    name: quest.q23
+    hard: "\u2605\u2605"
+    text: quest.d23
+    icon: {fileID: 21300010, guid: be9ed3894f119b344b6c69fe5a6745ee, type: 3}
+    steps:
+    - quest.q23s1
+    - quest.q23s2
+    - quest.q23s3
+    stepNum: 3

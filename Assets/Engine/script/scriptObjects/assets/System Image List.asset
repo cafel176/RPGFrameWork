@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d21f0af59eed5c64c86d4670cac5ca44, type: 3}
+  m_Name: System Image List
+  m_EditorClassIdentifier: 
+  list:
+  - key: charlotte
+    img: {fileID: 21300000, guid: 6b54c831fe3a7524b968c0b7d8b0ac3d, type: 3}
+  - key: quest
+    img: {fileID: 21300000, guid: 9208f23fe08cb6c458a43d1661c87d16, type: 3}
+  - key: quest_choose
+    img: {fileID: 21300000, guid: 1f8337412e6534a45a6b5fa583f7f5c5, type: 3}
+  - key: item
+    img: {fileID: 21300000, guid: 2c364eb74f7f04642a4ed133380863c0, type: 3}
+  - key: item_choose
+    img: {fileID: 21300000, guid: 110e2309729dea8449be4bd4059059f8, type: 3}
+  - key: think
+    img: {fileID: 21300000, guid: ae4323ad340955c4587263e79260afee, type: 3}
+  - key: think_choose
+    img: {fileID: 21300000, guid: 37a7f908e44363b41aca766c37226106, type: 3}
+  - key: system
+    img: {fileID: 21300000, guid: ddf2c9ec711744a4ab7e4e669e96195a, type: 3}
+  - key: system_choose
+    img: {fileID: 21300000, guid: 50a66f7e84b6ce74fab01f84f7b933e3, type: 3}
+  - key: 0_think
+    img: {fileID: 21300000, guid: ae4323ad340955c4587263e79260afee, type: 3}
+  - key: 0_choose
+    img: {fileID: 21300000, guid: 37a7f908e44363b41aca766c37226106, type: 3}
+

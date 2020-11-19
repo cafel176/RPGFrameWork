@@ -1,0 +1,384 @@
+{
+  "airship": {
+    "bgm": {
+      "name": "",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    "characterIndex": 3,
+    "characterName": "Vehicle",
+    "startMapId": 0,
+    "startX": 0,
+    "startY": 0
+  },
+  "armorTypes": [ "", "一般防具", "魔法防具", "轻装防具", "重装防具", "小型盾", "大型盾" ],
+  "attackMotions": [
+    {
+      "type": 0,
+      "weaponImageId": 0
+    },
+    {
+      "type": 1,
+      "weaponImageId": 1
+    },
+    {
+      "type": 1,
+      "weaponImageId": 2
+    },
+    {
+      "type": 1,
+      "weaponImageId": 3
+    },
+    {
+      "type": 1,
+      "weaponImageId": 4
+    },
+    {
+      "type": 1,
+      "weaponImageId": 5
+    },
+    {
+      "type": 1,
+      "weaponImageId": 6
+    },
+    {
+      "type": 2,
+      "weaponImageId": 7
+    },
+    {
+      "type": 2,
+      "weaponImageId": 8
+    },
+    {
+      "type": 2,
+      "weaponImageId": 9
+    },
+    {
+      "type": 0,
+      "weaponImageId": 10
+    },
+    {
+      "type": 0,
+      "weaponImageId": 11
+    },
+    {
+      "type": 0,
+      "weaponImageId": 12
+    }
+  ],
+  "battleBgm": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "battleback1Name": "Grassland",
+  "battleback2Name": "Grassland",
+  "battlerHue": 0,
+  "battlerName": "Dragon",
+  "boat": {
+    "bgm": {
+      "name": "",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    "characterIndex": 0,
+    "characterName": "Vehicle",
+    "startMapId": 0,
+    "startX": 0,
+    "startY": 0
+  },
+  "currencyUnit": "G",
+  "defeatMe": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "editMapId": 3,
+  "elements": [ "", "物理", "炎", "冰", "雷", "水", "土", "风", "光", "暗" ],
+  "equipTypes": [ "", "武器", "盾", "头部", "身体", "饰品" ],
+  "gameTitle": "The Witches' Tea Party v2.01.1 JP WIP",
+  "gameoverMe": {
+    "name": "game over song",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "locale": "en_US",
+  "magicSkills": [],
+  "menuCommands": [ true, true, true, true, true, true ],
+  "optDisplayTp": true,
+  "optDrawTitle": false,
+  "optExtraExp": false,
+  "optFloorDeath": false,
+  "optFollowers": true,
+  "optSideView": false,
+  "optSlipDeath": false,
+  "optTransparent": true,
+  "partyMembers": [ 1 ],
+  "ship": {
+    "bgm": {
+      "name": "",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    "characterIndex": 1,
+    "characterName": "Vehicle",
+    "startMapId": 0,
+    "startX": 0,
+    "startY": 0
+  },
+  "skillTypes": [ "", "魔法", "必杀技" ],
+  "sounds": [
+    {
+      "name": "mallet chime blip1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "music box1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "guitar error",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "guitar error",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Equip1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "music box save",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "music box load",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Battle1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Run",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Attack3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Damage4",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Damage5",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse4",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Recovery",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Miss",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Evasion1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Evasion2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Reflection",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Shop1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "music box1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Item3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    }
+  ],
+  "startMapId": 10,
+  "startX": 7,
+  "startY": 2,
+  "switches": [ "", "MENU ON", "MENU", "SYSTEM MENU", "魔法阵消失", "茶会开始", "X出现 法阵", "X出现", "发完饼干", "毛妹走", "A姐走", "MARI走", "X走", "茶会 自由行动开始", "MARI出现", "选完饼干", "大厅蕾妮离开", "大厅帮助mira", "大厅mira离开", "从大厅到走廊", "熊谜题正确", "下楼梯", "找钥匙", "修灯完成", "夜晚", "得到room3", "得到room4", "开灯", "进夏洛特房间", "房间说明完毕", "进vane房间", "制作颜料开始", "集齐原料", "魔药间门前", "完成颜料任务", "in vane's room", "画完成", "第一章", "evan出现", "寻找蕾妮", "清理小熊", "蕾妮出现", "伊万出现", "发现蕾妮完毕", "mira昏倒", "evan离开餐厅", "搜查开始", "修灯任务", "餐厅对话完毕", "6人对话完毕", "史蒂芬对话完毕", "推理开始", "看望蕾妮", "mira跑掉", "推理结束", "推理之后", "制作番茄汁", "完成番茄任务", "瓦妮莎的画", "选择去找蕾妮", "瓦妮莎门前对话1", "序章大厅mira坐下", "序章大厅mira站起", "玄关灯修好", "从玄关到大厅", "跳过片头", "迷宫vane转身", "迷宫熊出现", "迷宫钥匙位置", "夏洛特独自", "intro CG4", "intro CG消除", "2F走廊碎片", "完成油画拼图", "队友瓦妮莎", "队友史蒂芬", "队友伊万", "捡到蕾妮帽子", "准备推理", "风来了", "cpt1-配方交出", "Chapt1", "推理开始2", "推理开始3", "第一章结束", "邀请瓦妮莎", "An回去", "X回去", "mira门前", "派对邀请完成", "派对邀请失败", "邀请开始2", "蕾妮占卜完成", "看星星闲聊", "邀请时间到（传送）", "邀请失败蕾妮回家", "番茄推理失败", "vane房间的碎片", "颜料全选错", "", "", "第二章", "接早餐任务", "完成早餐", "进入AN的房间", "拿到沙漏", "熊出现", "跳过去了", "照完镜子", "骑扫帚", "放下茶词典", "推箱子完成", "扫帚们安静了", "不能下来！", "书架移开", "细长书架移开", "黑历史宝箱", "得到女巫帽", "可以使用女巫帽了", "可以使用钥匙了", "图书馆2开了", "愚者燃烧中", "聪明人燃烧中", "话痨燃烧中", "skull puzzle完毕", "可以使用密码纸了", "密码在桌子上", "AN出现", "图书馆探索完毕", "X推理完毕", "大蕾妮出现", "封印大蕾妮", "还给x沙漏", "进去秘密小屋", "", "", "", "", "", "", "被害者伯爵", "第三章", "去找mira", "伊万入队", "带着礼物", "送过礼物了", "进入mira房间", "调查了砂糖", "雨云", "出现云梯", "到了云上", "通过独角兽", "和驴子对话完", "使用歌唱家", "猫咪出来", "乐队集合", "得到公鸡", "伊万保护女主", "伊万没有保护女主", "掉下底层", "夏洛特站起", "裙子出现", "追逐战开始", "长走廊追逐开始", "镜子-MIRA黑脸", "长走廊追逐2", "安全了！", "长走廊追逐3", "躲过裙子", "打破镜子", "镜子-血迹", "右边门开了", "左边灯提示", "ERN走", "mira-flashlight", "笼中mira", "放mira出来", "能用右厅钥匙了", "右厅开门", "发现mira", "裙子翻牌中", "抓住ERN", "ERN推理结束", "裙子翻牌完成", "花园-mira蹲下", "花园-女巫mira出现", "夺命狂追开始", "米拉入队", "最终推理", "夺命狂追-1", "夺命狂追-2", "夺命狂追-3", "夺命狂追-4", "mira推理2结束", "可以逃跑了", "脱出玫瑰洋馆", "mira存活", "拉住mira", "没有救mira", "会场聊天", "走进裙子阁楼", "裙子翻牌1-1", "裙子翻牌1-2", "裙子翻牌2-1", "裙子翻牌2-2", "裙子翻牌3-1", "裙子翻牌3-2", "裙子翻牌4-1", "裙子翻牌4-2", "裙子翻牌5-1", "裙子翻牌5-2", "裙子翻牌6-1", "裙子翻牌6-2", "被害者mira", "被害者侯爵", "被害者子爵", "凶手mira", "凶手侯爵", "最终战-缓慢移动", "最终战-走廊", "云端-拿了笼子里的东西", "终盘剧情", "结束一切", "女巫mira出现", "an-伊万出现", "第四章开始", "走廊-伊万离开", "得到项链", "回忆杀1结束", "安德里亚的情报", "回忆杀2结束", "回忆杀3结束", "回忆杀4开始", "回忆杀4结束", "伊万安姐吵架开始", "TE达成", "猜对是项链", "小木屋发现", "继续思考线索", "回忆杀4-1结束", "挑战伊万捷琳", "ED1 沉睡", "ED2 大蕾妮", "ED3 恶魔米拉", "ED4 三方势力", "ED6 杀死伊万", "ED7 伊万毁灭世界", "NE 茶会继续", "TE 完美解决", "ED5 hero", "ED5 伊万消失", "ED3走廊米拉出现", "NE黑屏", "ending长条前黑屏", "料理系统的说明", "完成OST拼图", "完成RPG拼图", "CG GALLERY退出", "", "", "", "cpt3可以用扫帚了", "显示血槽", "推理失败", "cpt3推理开始2", "cpt3推理开始3", "cpt3能用公鸡了", "press z!", "送了青鸟", "3-进入阁楼-开始躲", "跳过去了！", "cpt3番茄汁减好感", "EXTRA MIRA出现", "", "", "", "", "", "", "", "", "---", "cpt4全部推理结束", "cpt4推理失败", "cpt4推理中盘", "cpt4推理开始", "返回现实", "滑冰场-到达！", "滑冰场-进入", "与雪人对话完", "可以去村子了", "勇者的话题", "雪人祭典的话题", "希望有人记得她", "环游世界吧！", "EVAN COT PIECE", "粉色小裙子", "", "", "GO TO NE", "GO TO TE", "支线-装饰-开始", "支线-装饰-地毯", "支线-装饰-彩灯", "支线-装饰-3个", "支线-装饰-蛋糕", "支线-装饰-完成", "支线-装饰-完美", "支线-装饰-交出", "支线-装饰-失败", "支线-无口-开始", "支线-无口-传达", "支线-无口-完成", "支线-白兔-开始", "支线-白兔-归还-安姐", "支线-白兔-归还-蕾妮", "支线-白兔-归还", "支线-白兔-完成", "支线-白兔-给蕾妮", "支线-蕾妮-开始", "支线-蕾妮-猜拳胜利", "支线-蕾妮-捉迷藏开始", "支线-蕾妮-捉迷藏位置1", "支线-蕾妮-捉迷藏位置2", "支线-蕾妮-捉迷藏位置3", "支线-蕾妮-捉迷藏胜利", "支线-蕾妮-抽鬼牌胜利", "支线-蕾妮-完成", "支线-瓦妮莎-开始", "支线-瓦妮莎-瓦妮莎胜利", "支线-瓦妮莎-捉迷藏开始", "支线-瓦妮莎-猜拳完成", "支线-瓦妮莎-捉迷藏完成", "支线-瓦妮莎-抽鬼牌完成", "支线-瓦妮莎-完成", "支线-做饭-开始", "支线-做饭-料理完", "支线-做饭-完成", "", "支线-音乐-开始", "支线-音乐-查完资料", "支线-音乐-做完藤蔓", "支线-音乐-送琴", "支线-音乐-完成", "支线-大蕾妮-开始", "支线-大蕾妮-开始2", "支线-大蕾妮-完", "支线-白兔-失败", "", "支线-安姐-开始", "支线-安姐-黄色", "支线-安姐-红色", "支线-安姐-绿色", "支线-安姐-猫", "支线-安姐-身上有书", "支线-安姐-完成", "支线-安姐-提示图片", "", "支线-修灯-完成", "", "", "支线-猫狗-ready", "支线-猫狗-talking", "猫狗-蕾妮", "猫狗-安德里亚", "猫狗-玛丽琳", "猫狗-瓦妮莎", "猫狗-Xavi", "猫狗-米拉", "猫狗-evan", "猫狗-询问完了", "猫狗-完成", "----", "投喂-番茄", "投喂-焦糖土豆泥", "投喂-抹茶", "投喂-草莓", "投喂-蓝莓", "投喂-海鲜饼干", "", "", "MA-BAR-1", "MA-BAR-2", "TE-1-x", "TE-1-盘子上桌", "", "TE-2-AN", "TE-3-LITTLE renne", "TE-3-doll", "", "TE-4-fish", "TE-5-V", "TE-5-R", "TE-E-gift", "", "", "", "", "", "", "" ],
+  "terms": {
+    "basic": [ "等级", "Lv", "HP", "HP", "MP", "MP", "TP", "TP", "经验值", "EXP" ],
+    "commands": [ "战斗", "逃跑", "攻击", "防御", "#{sys.item}", "技能", "装备", "状态", "队形", "Save", "#{sys.exit}", "#{sys.opt}", "武器", "防具", "#{sys.keyitem}", "装备", "最强装备", "清除", "#{sys.new}", "#{sys.conti}", null, "#{sys.totitle}", "#{sys.cancle}", null, "购买", "出售" ],
+    "params": [ "最大HP", "最大MP", "攻击力", "防御力", "魔法力", "魔法防御", "敏捷性", "幸运", "命中率", "闪避率" ],
+    "messages": {
+      "actionFailure": "对%1没有效果！",
+      "actorDamage": "%1受到了%2点伤害！",
+      "actorDrain": "%1的%2被夺去了%3！",
+      "actorGain": "%1的%2增加了%3！",
+      "actorLoss": "%1的%2减少了%3！",
+      "actorNoDamage": "%1没有受到伤害！",
+      "actorNoHit": "未击中！%1没有受到伤害！",
+      "actorRecovery": "%1的%2恢复了%3！",
+      "alwaysDash": "#{sys.dash}",
+      "bgmVolume": "#{sys.bgm}",
+      "bgsVolume": "#{sys.bgs}",
+      "buffAdd": "%1的%2上升了！",
+      "buffRemove": "%1的%2恢复正常！",
+      "commandRemember": "Command Remember",
+      "counterAttack": "%1的反击！",
+      "criticalToActor": "痛恨的一击！！",
+      "criticalToEnemy": "会心的一击！！",
+      "debuffAdd": "%1的%2下降了！",
+      "defeat": "%1战斗失败了。",
+      "emerge": "%1出现！",
+      "enemyDamage": "%1受到了%2点伤害！",
+      "enemyDrain": "%1的%2被夺走了%3！",
+      "enemyGain": "%1的%2增长了%3！",
+      "enemyLoss": "%1的%2减少了%3！",
+      "enemyNoDamage": "%1没有受到伤害！",
+      "enemyNoHit": "未击中！%1没有受到伤害！",
+      "enemyRecovery": "%1的%2恢复了%3！",
+      "escapeFailure": "然而无法逃跑！",
+      "escapeStart": "%1开始逃跑！",
+      "evasion": "%1闪避了攻击！",
+      "expNext": "到下个%1",
+      "expTotal": "当前%1",
+      "file": "#{sys.file}",
+      "levelUp": "%1的%2上升了%3！",
+      "loadMessage": "#{sys.loadwords}",
+      "magicEvasion": "%1将魔法消除了！",
+      "magicReflection": "%1反射了魔法！",
+      "meVolume": "#{sys.ME}",
+      "obtainExp": "获得了%1的%2！",
+      "obtainGold": "金钱入手%1\\G！",
+      "obtainItem": "入手了%1！",
+      "obtainSkill": "学会了%1！",
+      "partyName": "%1的队伍",
+      "possession": "持有数",
+      "preemptive": "%1获得了先手！",
+      "saveMessage": "#{sys.savewords}",
+      "seVolume": "#{sys.SE}",
+      "substitute": "%1保护了%2！",
+      "surprise": "%1被突然袭击！",
+      "useItem": "%1使用了%2！",
+      "victory": "%1的胜利！"
+    }
+  },
+  "testBattlers": [
+    {
+      "actorId": 1,
+      "equips": [ 1, 1, 2, 3, 0 ],
+      "level": 1
+    },
+    {
+      "actorId": 2,
+      "equips": [ 2, 1, 2, 3, 0 ],
+      "level": 1
+    },
+    {
+      "actorId": 3,
+      "equips": [ 3, 0, 2, 3, 4 ],
+      "level": 1
+    },
+    {
+      "actorId": 4,
+      "equips": [ 4, 0, 2, 3, 4 ],
+      "level": 1
+    }
+  ],
+  "testTroopId": 4,
+  "title1Name": "title",
+  "title2Name": "",
+  "titleBgm": {
+    "name": "title",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "variables": [ "", "推小熊", "零件", "颜料原料", "倒计时", "Charl Room", "剧情编号", "队友", "搜查进程", "史蒂芬妮对话", "提交证言", "番茄血槽", "出示食材", "菜谱编号", "给玛丽琳", "番茄料理错误", "正确的颜料配方", "颜料失败次数", "使用玩具钥匙", "玩具钥匙", "拼玩具钥匙", "通关", "看照片", "和mira说话", "隐藏房间BGM", "油画碎片", "完成拼图", "资料 vane1", "资料 vane2", "资料 vane3", "资料 mira1", "资料 mira2", "资料 mira3", "资料 rene1", "资料 rene2", "资料 rene3", "派对邀请", "邀请时间经过", "说服VANE", "蕾妮占卜", "答错", "说服mira", "输入文字", "输入密码", "出示女巫的书", "女巫的书正确", "那是人类的书", "给mira礼物", "推门", "出示砂糖", "回答独角兽", "出示歌唱家", "裙子翻牌", "裙子翻牌正确", "会场聊天", "第三章提交证言", "回忆杀1安德里亚", "回忆杀3X", "最终章提交项链", "最终章输入文字", "醒醒啊安姐", "瓦妮莎好感度", "蕾妮好感度", "米拉好感度", "伊万好感度", "xavi好感度", "安姐好感度", "史蒂芬妮好感度", "真结局达成", "料理次数", "存档次数", "第四章提交证言", "资料 A2", "资料 A3", "资料 X1", "资料 X2", "资料 X3", "资料 E1", "资料 E2", "资料 E3", "资料 mari", "推理扣血", "支线-装饰", "追逐1开门", "支线-猜拳", "支线-战胜蕾妮", "支线-捉迷藏位置", "支线·抽鬼牌", "支线-战胜瓦妮莎", "支线-瓦妮莎胜利", "支线-拼琴", "支线-安姐-放书正确", "支线-安姐-放书错误", "支线-安姐-放书", "支线-投喂大蕾妮", "支线-出示给大蕾妮次数", "支线-与瓦妮莎玩游戏次数", "支线-琴的材料", "猫狗调查", "AM不得不说的故事", "与雪人对话", "资料 S1", "资料 S2", "资料 S3", "音乐的碎片", "时空的碎片", "完成OST拼图", "完成RPG拼图", "全部料理完成", "CG3 mira's end", "CG Renne and Mira", "CG1.5 puzzle 2", "CG1.5 puzzle 3", "CG1.5 evan", "CG3 fall", "CG3 empty mirror", "CG3 mini mira", "CG2 AM-chest", "CG renee's card", "CG dog repo", "CG4 TE charl irina", "BE1-1", "BE1-2", "BE1-3", "BE2-1", "BE2-2", "BE2-3", "BE3-1", "BE3-2", "BE3-3", "BE4-1", "BE4-2", "BE4-3", "BE5-1", "BE5-2", "BE5-3", "BE6-1", "BE6-2", "BE6-3", "BE7-3", "支线-琴2", "GameOver1", "GameOver2", "GameOver3", "GameOver4", "GameOver5", "GameOver6", "GameOver7", "GameOver8", "GameOver9", "NE Clear", "MIRA存活", "CG3-CH-MIRROR", "CG2-CH-MIRROR", "DE收集", "", "", "", "", "", "" ],
+  "versionId": 85064241,
+  "victoryMe": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "weaponTypes": [ "", "匕首", "剑", "连枷", "斧", "鞭", "杖", "弓", "弩", "枪", "爪", "手套", "矛" ],
+  "windowTone":[0,0,0,0]}

@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d21f0af59eed5c64c86d4670cac5ca44, type: 3}
+  m_Name: Image List
+  m_EditorClassIdentifier: 
+  list:
+  - key: steph1(5)
+    img: {fileID: 21300000, guid: 25cc880ff1d047c40bb264e68aa166db, type: 3}
+  - key: steph1(4)
+    img: {fileID: 21300000, guid: 2c6bfb629cc928c498f296f11b804aa1, type: 3}
+  - key: steph1(3)
+    img: {fileID: 21300000, guid: cf491bd34542a724ab002d424ea4df2a, type: 3}
+  - key: steph1(2)
+    img: {fileID: 21300000, guid: 9c6bed687347cb94ca6e4d0a7b06bf77, type: 3}
+  - key: steph1(1)
+    img: {fileID: 21300000, guid: 51bd85fc1e64c094dbb19c901ab51cf7, type: 3}
+  - key: steph1(0)
+    img: {fileID: 21300000, guid: eceaa2138d08a9340a35ceed570864fa, type: 3}
+  - key: vanessa1(7)
+    img: {fileID: 21300000, guid: 8c0202950d02fa14aba0839ddd0c85c3, type: 3}
+  - key: vanessa1(6)
+    img: {fileID: 21300000, guid: c3c6ac7d5a3910d4fb72de42f16f85fd, type: 3}
+  - key: vanessa1(5)
+    img: {fileID: 21300000, guid: 2fdf99720f598f347990cdd552d8886b, type: 3}
+  - key: vanessa1(4)
+    img: {fileID: 21300000, guid: 3f81daedc86bf05498c8a4d6ef649ff2, type: 3}
+  - key: vanessa1(3)
+    img: {fileID: 21300000, guid: 3b6b014cc7d92634099adb48eb958227, type: 3}
+  - key: vanessa1(2)
+    img: {fileID: 21300000, guid: ce5e23398bd152243bd1b0822f7ce890, type: 3}
+  - key: vanessa1(1)
+    img: {fileID: 21300000, guid: d4519dcd16d310c44aecc1365bdfbb49, type: 3}
+  - key: vanessa1(0)
+    img: {fileID: 21300000, guid: 529a927297f2f7c4b847f252cbf1941b, type: 3}
+  - key: mira1(7)
+    img: {fileID: 21300000, guid: b4ae6d2080a94d843ae42b6a56c716db, type: 3}
+  - key: mira1(6)
+    img: {fileID: 21300000, guid: 3e37383ed29ee8541b7ac74285dd8007, type: 3}
+  - key: mira1(5)
+    img: {fileID: 21300000, guid: d1c85d4d164b7534184e01d315146c7f, type: 3}
+  - key: mira1(4)
+    img: {fileID: 21300000, guid: a6055e28ef9d38641a7e80ffed829397, type: 3}
+  - key: mira1(3)
+    img: {fileID: 21300000, guid: 9ceff60f07f47454c8aad4c1854386a2, type: 3}
+  - key: mira1(2)
+    img: {fileID: 21300000, guid: 286a5b03769cffe4ba85bfe33ccb831b, type: 3}
+  - key: mira1(1)
+    img: {fileID: 21300000, guid: e2115835956090343b5dd00abdd52e37, type: 3}
+  - key: mira1(0)
+    img: {fileID: 21300000, guid: 7f2cedf927d5e6745b113e1cbde1a06f, type: 3}
+  - key: renee2(7)
+    img: {fileID: 21300000, guid: 4ebcdf4e0d51f3a4688420998ce53f88, type: 3}
+  - key: renee2(6)
+    img: {fileID: 21300000, guid: 4a494dd0fc325e345954c832959d5359, type: 3}
+  - key: renee2(5)
+    img: {fileID: 21300000, guid: 1214ea087af1dfe44be08b89969c793f, type: 3}
+  - key: renee2(4)
+    img: {fileID: 21300000, guid: 62163d71acd26a2439abf95d1810df66, type: 3}
+  - key: renee2(3)
+    img: {fileID: 21300000, guid: b385868303f2fc24fb49fc2b676ad399, type: 3}
+  - key: renee2(2)
+    img: {fileID: 21300000, guid: 1f7296d3f32625f4cb99099f56c03a7b, type: 3}
+  - key: renee2(1)
+    img: {fileID: 21300000, guid: 01153bf72e484c74dac5e3d01e4422d4, type: 3}
+  - key: renee2(0)
+    img: {fileID: 21300000, guid: 3bec226232f72c243a875e01ca0b2739, type: 3}
+  - key: renee1(7)
+    img: {fileID: 21300000, guid: 7a2d25bf79b2bf04a95bc9eafc7a85b7, type: 3}
+  - key: renee1(6)
+    img: {fileID: 21300000, guid: 15ef95c94de935e4faebf0f940d0f0cd, type: 3}
+  - key: renee1(5)
+    img: {fileID: 21300000, guid: 2e752b723890cf44e95632ae0ec465f1, type: 3}
+  - key: renee1(4)
+    img: {fileID: 21300000, guid: 79920839c1bc71743b9d47895e4186b6, type: 3}
+  - key: renee1(3)
+    img: {fileID: 21300000, guid: f3069498cee75624088306ee1765199a, type: 3}
+  - key: renee1(2)
+    img: {fileID: 21300000, guid: 301ae887e8d45644dbcb07a45dca9c1a, type: 3}
+  - key: renee1(1)
+    img: {fileID: 21300000, guid: 1b71236fe82922748b90ecda78295774, type: 3}
+  - key: renee1(0)
+    img: {fileID: 21300000, guid: 1ec1652a8dbf15e408a66d3c55773a33, type: 3}
+  - key: X1(7)
+    img: {fileID: 21300000, guid: 50b4fb4ac462f8648bd0902a0381a931, type: 3}
+  - key: X1(6)
+    img: {fileID: 21300000, guid: aa62989ebd290cc459cc74e8f4c652d6, type: 3}
+  - key: X1(5)
+    img: {fileID: 21300000, guid: 46f07d2fef089be4986cbc2eb98f7769, type: 3}
+  - key: X1(4)
+    img: {fileID: 21300000, guid: 4e6913db9edec0b4dacefb97e47826e6, type: 3}
+  - key: X1(3)
+    img: {fileID: 21300000, guid: 90c0d6d195af2b24ab8879ef57e9a02f, type: 3}
+  - key: X1(2)
+    img: {fileID: 21300000, guid: 9877e95656bbc45488f2c0c9fc1ad1c9, type: 3}
+  - key: X1(1)
+    img: {fileID: 21300000, guid: 16a899f1bbd55544ea963a5360033762, type: 3}
+  - key: X1(0)
+    img: {fileID: 21300000, guid: 417f2872e97fcb744b1e5d2db3ecc671, type: 3}
+  - key: X0(0)
+    img: {fileID: 21300000, guid: 9067c013f4af77445bd4391ff79e1739, type: 3}
+  - key: marilyn1(5)
+    img: {fileID: 21300000, guid: 63807792da2b49541ae535dceed9c866, type: 3}
+  - key: marilyn1(4)
+    img: {fileID: 21300000, guid: 3d7dfd21b7a4ac04baf4810704bcc359, type: 3}
+  - key: marilyn1(3)
+    img: {fileID: 21300000, guid: bfa8c1de7a30bae4bb9fbbfd8c18e32a, type: 3}
+  - key: marilyn1(2)
+    img: {fileID: 21300000, guid: 136940a218b882b4f837268898c62f5a, type: 3}
+  - key: marilyn1(1)
+    img: {fileID: 21300000, guid: 29bb098148580184a9a906fcdc7fa461, type: 3}
+  - key: marilyn1(0)
+    img: {fileID: 21300000, guid: fc97a89506f5f3b4ab8067656a87223a, type: 3}
+  - key: charlotte2(7)
+    img: {fileID: 21300000, guid: a991fa45897f381448f24b84e90a65e4, type: 3}
+  - key: charlotte2(6)
+    img: {fileID: 21300000, guid: 9c92ac5553389b74ca7dd25133740fbb, type: 3}
+  - key: charlotte2(5)
+    img: {fileID: 21300000, guid: 71f73558ae790304bacd3f24c885930a, type: 3}
+  - key: charlotte2(4)
+    img: {fileID: 21300000, guid: 5df4670f98929374baf06bca539c39da, type: 3}
+  - key: charlotte2(3)
+    img: {fileID: 21300000, guid: c2a667bd152b4fc419c86eb49e502f69, type: 3}
+  - key: charlotte2(2)
+    img: {fileID: 21300000, guid: 01c41c963e3a0164dbfe9d0f51c826e3, type: 3}
+  - key: charlotte2(1)
+    img: {fileID: 21300000, guid: d98d353c270f9a241b411767e2ed4573, type: 3}
+  - key: charlotte2(0)
+    img: {fileID: 21300000, guid: f447ee71effdf04468a5b6e95ebdd61a, type: 3}
+  - key: charlotte1(7)
+    img: {fileID: 21300000, guid: 52a48128ea5e7c5429f4311cc89a9c81, type: 3}
+  - key: charlotte1(6)
+    img: {fileID: 21300000, guid: 510e9ebe8cb3faa4ab2950c975e4b4b4, type: 3}
+  - key: charlotte1(5)
+    img: {fileID: 21300000, guid: d78f6c4074b3f54439c6a71508682db4, type: 3}
+  - key: charlotte1(4)
+    img: {fileID: 21300000, guid: 47efde7cc836b1940b6b2fe7b26f4811, type: 3}
+  - key: charlotte1(3)
+    img: {fileID: 21300000, guid: cfd57c6bf5cd7d445b6899917e745b01, type: 3}
+  - key: charlotte1(2)
+    img: {fileID: 21300000, guid: ca1b4b32b5942584cbd75e00f9a33277, type: 3}
+  - key: charlotte1(1)
+    img: {fileID: 21300000, guid: 08adaf3df4afff64b80177e1d9646a69, type: 3}
+  - key: charlotte1(0)
+    img: {fileID: 21300000, guid: 6b54c831fe3a7524b968c0b7d8b0ac3d, type: 3}
+  - key: evangeline2(1)
+    img: {fileID: 21300000, guid: 7e84b2e2d255de542ac4861c0dfd428a, type: 3}
+  - key: evangeline2(0)
+    img: {fileID: 21300000, guid: bced413d6c04a4f4495296f65c5deae2, type: 3}
+  - key: evangeline1(7)
+    img: {fileID: 21300000, guid: 8efb7b9bed183804b82d8027a0cd40a9, type: 3}
+  - key: evangeline1(6)
+    img: {fileID: 21300000, guid: 5510a94f3a72aa14d936e29b52d35074, type: 3}
+  - key: evangeline1(5)
+    img: {fileID: 21300000, guid: 9f63b762f7c6560488317fda0c5a9d68, type: 3}
+  - key: evangeline1(4)
+    img: {fileID: 21300000, guid: 740b014ed2ae3654ca0d250e0447ae8f, type: 3}
+  - key: evangeline1(3)
+    img: {fileID: 21300000, guid: ba2bdc8bc95c10848b1d001c230db333, type: 3}
+  - key: evangeline1(2)
+    img: {fileID: 21300000, guid: 36a26b03fb4169b4fab773c2aebc9e12, type: 3}
+  - key: evangeline1(1)
+    img: {fileID: 21300000, guid: e778f35ae1156cd439c7b6b81dae6045, type: 3}
+  - key: evangeline1(0)
+    img: {fileID: 21300000, guid: 7c08ff42f62715449b8689807148deaa, type: 3}
+  - key: Andrea2(2)
+    img: {fileID: 21300000, guid: d8cb8c079bdd08e4f8947a81d8c9ebc4, type: 3}
+  - key: Andrea2(1)
+    img: {fileID: 21300000, guid: d4f506bae0fcdc847809a028036933f0, type: 3}
+  - key: Andrea2(0)
+    img: {fileID: 21300000, guid: 5b504128824b82740bfc971dc52df2d6, type: 3}
+  - key: Andrea1(7)
+    img: {fileID: 21300000, guid: cb85da0ee4aa6514087d3ac2283918e7, type: 3}
+  - key: Andrea1(6)
+    img: {fileID: 21300000, guid: b944fec648aa18e4d83731b2e52152e8, type: 3}
+  - key: Andrea1(5)
+    img: {fileID: 21300000, guid: fdc69a59e764ebe4b8388dd3c337124f, type: 3}
+  - key: Andrea1(4)
+    img: {fileID: 21300000, guid: 04a9f93c5a1620a44926f4638cabd0c2, type: 3}
+  - key: Andrea1(3)
+    img: {fileID: 21300000, guid: 750ffc906a884a6408caaea0980cae60, type: 3}
+  - key: Andrea1(2)
+    img: {fileID: 21300000, guid: fccd70d3aa2f75f43a8de2c6efab695c, type: 3}
+  - key: Andrea1(1)
+    img: {fileID: 21300000, guid: fb556b35b9625074daedea032897d5f7, type: 3}
+  - key: Andrea1(0)
+    img: {fileID: 21300000, guid: 9a6e39f3bd125e54aa97582bb24d1700, type: 3}
+  - key: paper
+    img: {fileID: 21300000, guid: fbb540ba08ee8804dac2d41eb1b5e535, type: 3}
+  - key: intro-1
+    img: {fileID: 21300000, guid: d2fb84f6036a7a54c86d87781e4dabd6, type: 3}
+  - key: intro-2
+    img: {fileID: 21300000, guid: 90f4d2d7f56540645b30216484978bd7, type: 3}
+  - key: intro-3
+    img: {fileID: 21300000, guid: d66094f2f89a2bc48b27fd37a7f3466d, type: 3}
+  - key: intro-4
+    img: {fileID: 21300000, guid: 5d98d9189970a964682f113fcede797b, type: 3}

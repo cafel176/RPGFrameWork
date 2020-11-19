@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001a27562e6b8d74bb1523afa8c71aba, type: 3}
+  m_Name: System Text List
+  m_EditorClassIdentifier: 
+  list:
+  - key: cando.save
+    cnText: "\u5B58 \u6863"
+    enText: Save
+    jpText: Save
+  - key: cando.investigate
+    cnText: "\u8C03 \u67E5"
+    enText: Investigate
+    jpText: Investigate
+  - key: think.0
+    cnText: "\u8981\u56DE\u53BB\u624D\u884C\u2026\u2026\u5148\u627E\u627E\u8DEF\u5427\u3002"
+    enText: Grilled Squid
+    jpText: "\u713C\u304F"
+  - key: sys.no
+    cnText: "\u5426"
+    enText: No
+    jpText: No
+  - key: sys.yes
+    cnText: "\u662F"
+    enText: Yes
+    jpText: Yes
+  - key: quest.hard
+    cnText: "\u96BE\u5EA6: "
+    enText: 'Difficulty: '
+    jpText: "\u96E3\u6613\u5EA6: "
+  - key: quest.describe
+    cnText: "\u8BF4\u660E: "
+    enText: 'Description: '
+    jpText: "\u5185\u5BB9: "
+  - key: quest.steps
+    cnText: "\u6B65\u9AA4: "
+    enText: 'Steps: '
+    jpText: "\u30E1\u30E2: "
+  - key: sys.windowSize
+    cnText: "\u7A97\u53E3\u5927\u5C0F:"
+    enText: Window Size
+    jpText: Window Size
+  - key: sys.new
+    cnText: "\u8336\u4F1A\u5F00\u59CB"
+    enText: New Game
+    jpText: "\u59CB\u3081\u304B\u3089"
+  - key: sys.conti
+    cnText: "\u7EE7\u7EED\u8336\u4F1A"
+    enText: Continue
+    jpText: "\u7D9A\u304D\u304B\u3089"
+  - key: sys.totitle
+    cnText: "\u8FD4\u56DE\u6807\u9898"
+    enText: To Title
+    jpText: "\u30BF\u30A4\u30C8\u30EB\u306B\u623B\u308B"
+  - key: sys.cancel
+    cnText: "\u53D6\u6D88"
+    enText: Cancel
+    jpText: "\u30AD\u30E3\u30F3\u30BB\u30EB"
+  - key: sys.opt
+    cnText: "\u73AF\u5883\u8BBE\u5B9A"
+    enText: Options
+    jpText: "\u30AA\u30D7\u30B7\u30E7\u30F3"
+  - key: sys.exit
+    cnText: "\u9000\u51FA"
+    enText: Exit
+    jpText: "\u7D42\u4E86"
+  - key: sys.extra
+    cnText: "\u9690\u85CF\u623F\u95F4"
+    enText: Extra
+    jpText: "\u30AA\u30DE\u30B1"
+  - key: sys.item
+    cnText: "\u7269\u54C1"
+    enText: Item
+    jpText: "\u30A2\u30A4\u30C6\u30E0"
+  - key: sys.keyitem
+    cnText: "\u7B14\u8BB0"
+    enText: Notes
+    jpText: "\u30E1\u30E2"
+  - key: sys.hiddenA
+    cnText: "\u793C\u7269"
+    enText: Gift
+    jpText: "\u8CB4\u91CD\u54C1"
+  - key: sys.hiddenB
+    cnText: "\u6599\u7406"
+    enText: Food
+    jpText: "\u98DF\u6750\u3068\u30EC\u30B7\u30D4"
+  - key: sys.dash
+    cnText: "\u603B\u662F\u8DD1\u6B65"
+    enText: Always Dash
+    jpText: "\u79FB\u52D5\u3092\u901F\u304F\u3059\u308B"
+  - key: sys.bgm
+    cnText: "BGM\u97F3\u91CF"
+    enText: BGM Volume
+    jpText: "BGM\u97F3\u91CF"
+  - key: sys.bgs
+    cnText: "BGS\u97F3\u91CF"
+    enText: BGS Volume
+    jpText: "BGS\u97F3\u91CF"
+  - key: sys.ME
+    cnText: "ME\u97F3\u91CF"
+    enText: ME Volume
+    jpText: "ME\u97F3\u91CF"
+  - key: sys.SE
+    cnText: "SE\u97F3\u91CF"
+    enText: SE Volume
+    jpText: "SE\u97F3\u91CF"
+  - key: sys.language
+    cnText: "\u8BED\u8A00\u9009\u62E9"
+    enText: Language
+    jpText: "\u8A00\u8A9E"
+  - key: sys.savewords
+    cnText: "\u4FDD\u5B58\u5728\u54EA\u4E2A\u5B58\u6863\uFF1F"
+    enText: Save to which file?
+    jpText: "\u3069\u306E\u30D5\u30A1\u30A4\u30EB\u306B\u4FDD\u5B58\u3057\u307E\u3059\u304B\uFF1F"
+  - key: sys.loadwords
+    cnText: "\u8BFB\u53D6\u54EA\u4E2A\u5B58\u6863\uFF1F"
+    enText: Load which file?
+    jpText: "\u3069\u306E\u30D5\u30A1\u30A4\u30EB\u3092\u8AAD\u307F\u8FBC\u307F\u307E\u3059\u304B\uFF1F"
+  - key: sys.file
+    cnText: '*  File'
+    enText: '*  File'
+    jpText: '*  File'
+  - key: sys.SRDfont
+    cnText: "\u5B57\u4F53\u8BBE\u5B9A"
+    enText: Text Font
+    jpText: Text Font
+  - key: sys.defont
+    cnText: "\u9ED8\u8BA4\u5B57\u4F53"
+    enText: Default
+    jpText: Default
+  - key: sys.yepload
+    cnText: "\u8BFB\u53D6"
+    enText: Load
+    jpText: "\u30ED\u30FC\u30C9"
+  - key: sys.yepsave
+    cnText: "\u4FDD\u5B58"
+    enText: Save
+    jpText: "\u30BB\u30FC\u30D6"
+  - key: sys.yepdele
+    cnText: "\u5220\u9664"
+    enText: Delete
+    jpText: "\u524A\u9664"
+  - key: sys.selehelp
+    cnText: "\u8BF7\u9009\u62E9\u4E00\u4E2A\u5B58\u6863\u3002"
+    enText: Please select a file
+    jpText: "\u30D5\u30A1\u30A4\u30EB\u3092\u9078\u629E\u3057\u3066\u304F\u3060\u3055\u3044\u3002"
+  - key: sys.loadhelp
+    cnText: "\u8BFB\u53D6\u5B58\u6863\u3002"
+    enText: Load the file.
+    jpText: "\u30D5\u30A1\u30A4\u30EB\u3092\u8AAD\u307F\u8FBC\u307F\u307E\u3059\u3002"
+  - key: sys.savehelp
+    cnText: "\u4FDD\u5B58\u8FDB\u5EA6\u3002"
+    enText: Save the progress.
+    jpText: "\u30B2\u30FC\u30E0\u306E\u9032\u884C\u72B6\u6CC1\u3092\u4FDD\u5B58\u3057\u307E\u3059\u3002"
+  - key: sys.delehelp
+    cnText: "\u5220\u9664\u5B58\u6863\u3002"
+    enText: Delete the file.
+    jpText: "\u30D5\u30A1\u30A4\u30EB\u3092\u524A\u9664\u3057\u307E\u3059\u3002"
+  - key: sys.invalid
+    cnText: "\u65E0\u6548\u6570\u636E\u3002"
+    enText: Invalid data.
+    jpText: Invalid data.
+  - key: sys.emptytext
+    cnText: '- The Witches'' Tea Party -'
+    enText: '- The Witches Tea Party -'
+    jpText: '- The Witches'' Tea Party -'
+  - key: sys.playtime
+    cnText: "\u6E38\u620F\u65F6\u95F4\uFF1A"
+    enText: 'Playtime: '
+    jpText: "\u30D7\u30EC\u30A4\u6642\u9593\uFF1A "
+  - key: sys.loadtext
+    cnText: "\u8BFB\u53D6\u8FD9\u4E2A\u5B58\u6863\u5417\uFF1F"
+    enText: Load this file?
+    jpText: "\u30D5\u30A1\u30A4\u30EB\u3092\u8AAD\u307F\u8FBC\u307F\u307E\u3059\u304B\uFF1F"
+  - key: sys.savetext
+    cnText: "\u8986\u76D6\u8FD9\u4E2A\u5B58\u6863\u5417\uFF1F"
+    enText: Overwrite this file?
+    jpText: "\u30D5\u30A1\u30A4\u30EB\u3092\u4E0A\u66F8\u304D\u3057\u307E\u3059\u304B\uFF1F"
+  - key: sys.deletext
+    cnText: "\u5220\u9664\u8FD9\u4E2A\u5B58\u6863\u5417\uFF1F"
+    enText: Delete this file?
+    jpText: "\u30D5\u30A1\u30A4\u30EB\u3092\u524A\u9664\u3057\u307E\u3059\u304B\uFF1F"
+  - key: akunou.modosu
+    cnText: "\u8FD4\u56DE\u9ED8\u8BA4\u8BBE\u5B9A"
+    enText: Default Settings
+    jpText: "\u521D\u671F\u306B\u623B\u3059"
+  - key: akunou.auto
+    cnText: "\u81EA\u52A8\u6587\u5B57"
+    enText: Auto Message
+    jpText: "\u4F1A\u8A71\u306E\u901F\u5EA6"
+  - key: akunou.off
+    cnText: OFF
+    enText: OFF
+    jpText: OFF
+  - key: akunou.slow
+    cnText: "\u6162\u901F"
+    enText: Slow
+    jpText: "\u9045\u3044"
+  - key: akunou.sslow
+    cnText: "\u6709\u70B9\u6162"
+    enText: Slightly Slow
+    jpText: "\u3084\u3084\u9045\u3044"
+  - key: akunou.normal
+    cnText: "\u6B63\u5E38"
+    enText: Normal
+    jpText: "\u666E\u901A"
+  - key: akunou.sfast
+    cnText: "\u6709\u70B9\u5FEB"
+    enText: Slightly Fast
+    jpText: "\u3084\u3084\u901F\u3044"
+  - key: akunou.fast
+    cnText: "\u5FEB\u901F"
+    enText: Fast
+    jpText: "\u901F\u3044"
+  - key: akunou.vfast
+    cnText: "\u5F88\u5FEB"
+    enText: Very Fast
+    jpText: "\u3068\u3066\u3082\u901F\u3044"
+  - key: quest.quest
+    cnText: Quest
+    enText: Quest
+    jpText: "\u30AF\u30A8\u30B9\u30C8"
+  - key: quest.ing
+    cnText: "\u8FDB\u884C\u4E2D"
+    enText: Available
+    jpText: "\u653B\u7565\u4E2D"
+  - key: quest.done
+    cnText: "\u5DF2\u5B8C\u6210"
+    enText: Completed
+    jpText: "\u5B8C\u4E86\uFF01"
+  - key: quest.fail
+    cnText: "\u5DF2\u5931\u8D25"
+    enText: Failed
+    jpText: "\u5931\u6557\u2026"
+  - key: quest.all
+    cnText: "\u5168\u90E8\u4EFB\u52A1"
+    enText: All
+    jpText: "\u5168\u3066\u3002"
+  - key: quest.main
+    cnText: "\u4E3B\u7EBF\u4EFB\u52A1"
+    enText: Story
+    jpText: "\u30E1\u30A4\u30F3\u30AF\u30A8\u30B9\u30C8"
+  - key: quest.side
+    cnText: "\u652F\u7EBF\u4EFB\u52A1"
+    enText: Side Quest
+    jpText: "\u30B5\u30A4\u30C9\u30AF\u30A8\u30B9\u30C8"
+  - key: quest.hidden
+    cnText: "\u9690\u85CF\u4EFB\u52A1"
+    enText: Hidden Quest
+    jpText: "\u30B7\u30FC\u30AF\u30EC\u30C3\u30C8"

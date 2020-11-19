@@ -1,0 +1,536 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46155c882dbf8b84198ce7fc1da44de2, type: 3}
+  m_Name: autoEvent List
+  m_EditorClassIdentifier: 
+  conditions:
+  - type: 3
+    name: A
+    thisConnect: 0
+    compare: 2
+    value: false
+  howToStart: 3
+  list:
+  - type: 5
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 1
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 2
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: map002.start001
+    str3: charlotte1(5)
+    str4: MSGSE TALK DEFAULT
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 29
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: hrpchd9 quest add
+    str2: 
+    str3: 
+    str4: MSGSE TALK 1
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 2
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: map002.start002
+    str3: 
+    str4: MSGSE TALK 1
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 34
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 1
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 2
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: map002.start003
+    str3: 
+    str4: MSGSE TALK 1
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 2
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: map002.start004
+    str3: 
+    str4: MSGSE TALK 1
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 20
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: "\u6C89\u9ED8"
+    str2: 
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0.929, y: 1.679}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 2
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: map002.start005
+    str3: charlotte1(1)
+    str4: MSGSE TALK DEFAULT
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 8
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: "\u590F\u6D1B\u7279\u72EC\u81EA"
+    str2: 
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 9
+    howToCal: 4
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: "\u74E6\u59AE\u838E\u597D\u611F\u5EA6"
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 10
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 9
+    howToCal: 4
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: "\u857E\u59AE\u597D\u611F\u5EA6"
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 10
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 9
+    howToCal: 4
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: "\u7C73\u62C9\u597D\u611F\u5EA6"
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 10
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 9
+    howToCal: 4
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: "xavi\u597D\u611F\u5EA6"
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 10
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 9
+    howToCal: 4
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: "\u5B89\u59D0\u597D\u611F\u5EA6"
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 20
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 9
+    howToCal: 4
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: "\u53F2\u8482\u82AC\u59AE\u597D\u611F\u5EA6"
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 10
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 8
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: "\u8336\u4F1A \u81EA\u7531\u884C\u52A8\u5F00\u59CB"
+    str2: 
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 8
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: MENU ON
+    str2: 
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 17
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: 
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  independentSwitchs: 01000000

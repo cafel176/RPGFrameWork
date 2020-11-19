@@ -1,0 +1,323 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6f1d4762d7b38a4097f89ad64053351, type: 3}
+  m_Name: Int List
+  m_EditorClassIdentifier: 
+  list:
+  - key: "\u63A8\u5C0F\u718A"
+    value: 0
+  - key: "\u96F6\u4EF6"
+    value: 0
+  - key: "\u989C\u6599\u539F\u6599"
+    value: 0
+  - key: "\u5012\u8BA1\u65F6"
+    value: 0
+  - key: Charl Room
+    value: 0
+  - key: "\u5267\u60C5\u7F16\u53F7"
+    value: 0
+  - key: "\u961F\u53CB"
+    value: 0
+  - key: "\u641C\u67E5\u8FDB\u7A0B"
+    value: 0
+  - key: "\u53F2\u8482\u82AC\u59AE\u5BF9\u8BDD"
+    value: 0
+  - key: "\u63D0\u4EA4\u8BC1\u8A00"
+    value: 0
+  - key: "\u756A\u8304\u8840\u69FD"
+    value: 0
+  - key: "\u51FA\u793A\u98DF\u6750"
+    value: 0
+  - key: "\u83DC\u8C31\u7F16\u53F7"
+    value: 0
+  - key: "\u7ED9\u739B\u4E3D\u7433"
+    value: 0
+  - key: "\u756A\u8304\u6599\u7406\u9519\u8BEF"
+    value: 0
+  - key: "\u6B63\u786E\u7684\u989C\u6599\u914D\u65B9"
+    value: 0
+  - key: "\u989C\u6599\u5931\u8D25\u6B21\u6570"
+    value: 0
+  - key: "\u4F7F\u7528\u73A9\u5177\u94A5\u5319"
+    value: 0
+  - key: "\u73A9\u5177\u94A5\u5319"
+    value: 0
+  - key: "\u62FC\u73A9\u5177\u94A5\u5319"
+    value: 0
+  - key: "\u901A\u5173"
+    value: 0
+  - key: "\u770B\u7167\u7247"
+    value: 0
+  - key: "\u548Cmira\u8BF4\u8BDD"
+    value: 0
+  - key: "\u9690\u85CF\u623F\u95F4BGM"
+    value: 0
+  - key: "\u6CB9\u753B\u788E\u7247"
+    value: 0
+  - key: "\u5B8C\u6210\u62FC\u56FE"
+    value: 0
+  - key: "\u8D44\u6599 vane1"
+    value: 0
+  - key: "\u8D44\u6599 vane2"
+    value: 0
+  - key: "\u8D44\u6599 vane3"
+    value: 0
+  - key: "\u8D44\u6599 mira1"
+    value: 0
+  - key: "\u8D44\u6599 mira2"
+    value: 0
+  - key: "\u8D44\u6599 mira3"
+    value: 0
+  - key: "\u8D44\u6599 rene1"
+    value: 0
+  - key: "\u8D44\u6599 rene2"
+    value: 0
+  - key: "\u8D44\u6599 rene3"
+    value: 0
+  - key: "\u6D3E\u5BF9\u9080\u8BF7"
+    value: 0
+  - key: "\u9080\u8BF7\u65F6\u95F4\u7ECF\u8FC7"
+    value: 0
+  - key: "\u8BF4\u670DVANE"
+    value: 0
+  - key: "\u857E\u59AE\u5360\u535C"
+    value: 0
+  - key: "\u7B54\u9519"
+    value: 0
+  - key: "\u8BF4\u670Dmira"
+    value: 0
+  - key: "\u8F93\u5165\u6587\u5B57"
+    value: 0
+  - key: "\u8F93\u5165\u5BC6\u7801"
+    value: 0
+  - key: "\u51FA\u793A\u5973\u5DEB\u7684\u4E66"
+    value: 0
+  - key: "\u5973\u5DEB\u7684\u4E66\u6B63\u786E"
+    value: 0
+  - key: "\u90A3\u662F\u4EBA\u7C7B\u7684\u4E66"
+    value: 0
+  - key: "\u7ED9mira\u793C\u7269"
+    value: 0
+  - key: "\u63A8\u95E8"
+    value: 0
+  - key: "\u51FA\u793A\u7802\u7CD6"
+    value: 0
+  - key: "\u56DE\u7B54\u72EC\u89D2\u517D"
+    value: 0
+  - key: "\u51FA\u793A\u6B4C\u5531\u5BB6"
+    value: 0
+  - key: "\u88D9\u5B50\u7FFB\u724C"
+    value: 0
+  - key: "\u88D9\u5B50\u7FFB\u724C\u6B63\u786E"
+    value: 0
+  - key: "\u4F1A\u573A\u804A\u5929"
+    value: 0
+  - key: "\u7B2C\u4E09\u7AE0\u63D0\u4EA4\u8BC1\u8A00"
+    value: 0
+  - key: "\u56DE\u5FC6\u67401\u5B89\u5FB7\u91CC\u4E9A"
+    value: 0
+  - key: "\u56DE\u5FC6\u67403X"
+    value: 0
+  - key: "\u6700\u7EC8\u7AE0\u63D0\u4EA4\u9879\u94FE"
+    value: 0
+  - key: "\u6700\u7EC8\u7AE0\u8F93\u5165\u6587\u5B57"
+    value: 0
+  - key: "\u9192\u9192\u554A\u5B89\u59D0"
+    value: 0
+  - key: "\u74E6\u59AE\u838E\u597D\u611F\u5EA6"
+    value: 0
+  - key: "\u857E\u59AE\u597D\u611F\u5EA6"
+    value: 0
+  - key: "\u7C73\u62C9\u597D\u611F\u5EA6"
+    value: 0
+  - key: "\u4F0A\u4E07\u597D\u611F\u5EA6"
+    value: 0
+  - key: "xavi\u597D\u611F\u5EA6"
+    value: 0
+  - key: "\u5B89\u59D0\u597D\u611F\u5EA6"
+    value: 0
+  - key: "\u53F2\u8482\u82AC\u59AE\u597D\u611F\u5EA6"
+    value: 0
+  - key: "\u771F\u7ED3\u5C40\u8FBE\u6210"
+    value: 0
+  - key: "\u6599\u7406\u6B21\u6570"
+    value: 0
+  - key: "\u5B58\u6863\u6B21\u6570"
+    value: 0
+  - key: "\u7B2C\u56DB\u7AE0\u63D0\u4EA4\u8BC1\u8A00"
+    value: 0
+  - key: "\u8D44\u6599 A2"
+    value: 0
+  - key: "\u8D44\u6599 A3"
+    value: 0
+  - key: "\u8D44\u6599 X1"
+    value: 0
+  - key: "\u8D44\u6599 X2"
+    value: 0
+  - key: "\u8D44\u6599 X3"
+    value: 0
+  - key: "\u8D44\u6599 E1"
+    value: 0
+  - key: "\u8D44\u6599 E2"
+    value: 0
+  - key: "\u8D44\u6599 E3"
+    value: 0
+  - key: "\u8D44\u6599 mari"
+    value: 0
+  - key: "\u63A8\u7406\u6263\u8840"
+    value: 0
+  - key: "\u652F\u7EBF-\u88C5\u9970"
+    value: 0
+  - key: "\u8FFD\u90101\u5F00\u95E8"
+    value: 0
+  - key: "\u652F\u7EBF-\u731C\u62F3"
+    value: 0
+  - key: "\u652F\u7EBF-\u6218\u80DC\u857E\u59AE"
+    value: 0
+  - key: "\u652F\u7EBF-\u6349\u8FF7\u85CF\u4F4D\u7F6E"
+    value: 0
+  - key: "\u652F\u7EBF\xB7\u62BD\u9B3C\u724C"
+    value: 0
+  - key: "\u652F\u7EBF-\u6218\u80DC\u74E6\u59AE\u838E"
+    value: 0
+  - key: "\u652F\u7EBF-\u74E6\u59AE\u838E\u80DC\u5229"
+    value: 0
+  - key: "\u652F\u7EBF-\u62FC\u7434"
+    value: 0
+  - key: "\u652F\u7EBF-\u5B89\u59D0-\u653E\u4E66\u6B63\u786E"
+    value: 0
+  - key: "\u652F\u7EBF-\u5B89\u59D0-\u653E\u4E66\u9519\u8BEF"
+    value: 0
+  - key: "\u652F\u7EBF-\u5B89\u59D0-\u653E\u4E66"
+    value: 0
+  - key: "\u652F\u7EBF-\u6295\u5582\u5927\u857E\u59AE"
+    value: 0
+  - key: "\u652F\u7EBF-\u51FA\u793A\u7ED9\u5927\u857E\u59AE\u6B21\u6570"
+    value: 0
+  - key: "\u652F\u7EBF-\u4E0E\u74E6\u59AE\u838E\u73A9\u6E38\u620F\u6B21\u6570"
+    value: 0
+  - key: "\u652F\u7EBF-\u7434\u7684\u6750\u6599"
+    value: 0
+  - key: "\u732B\u72D7\u8C03\u67E5"
+    value: 0
+  - key: "AM\u4E0D\u5F97\u4E0D\u8BF4\u7684\u6545\u4E8B"
+    value: 0
+  - key: "\u4E0E\u96EA\u4EBA\u5BF9\u8BDD"
+    value: 0
+  - key: "\u8D44\u6599 S1"
+    value: 0
+  - key: "\u8D44\u6599 S2"
+    value: 0
+  - key: "\u8D44\u6599 S3"
+    value: 0
+  - key: "\u97F3\u4E50\u7684\u788E\u7247"
+    value: 0
+  - key: "\u65F6\u7A7A\u7684\u788E\u7247"
+    value: 0
+  - key: "\u5B8C\u6210OST\u62FC\u56FE"
+    value: 0
+  - key: "\u5B8C\u6210RPG\u62FC\u56FE"
+    value: 0
+  - key: "\u5168\u90E8\u6599\u7406\u5B8C\u6210"
+    value: 0
+  - key: CG3 mira's end
+    value: 0
+  - key: CG Renne and Mira
+    value: 0
+  - key: CG1.5 puzzle 2
+    value: 0
+  - key: CG1.5 puzzle 3
+    value: 0
+  - key: CG1.5 evan
+    value: 0
+  - key: CG3 fall
+    value: 0
+  - key: CG3 empty mirror
+    value: 0
+  - key: CG3 mini mira
+    value: 0
+  - key: CG2 AM-chest
+    value: 0
+  - key: CG renee's card
+    value: 0
+  - key: CG dog repo
+    value: 0
+  - key: CG4 TE charl irina
+    value: 0
+  - key: BE1-1
+    value: 0
+  - key: BE1-2
+    value: 0
+  - key: BE1-3
+    value: 0
+  - key: BE2-1
+    value: 0
+  - key: BE2-2
+    value: 0
+  - key: BE2-3
+    value: 0
+  - key: BE3-1
+    value: 0
+  - key: BE3-2
+    value: 0
+  - key: BE3-3
+    value: 0
+  - key: BE4-1
+    value: 0
+  - key: BE4-2
+    value: 0
+  - key: BE4-3
+    value: 0
+  - key: BE5-1
+    value: 0
+  - key: BE5-2
+    value: 0
+  - key: BE5-3
+    value: 0
+  - key: BE6-1
+    value: 0
+  - key: BE6-2
+    value: 0
+  - key: BE6-3
+    value: 0
+  - key: BE7-3
+    value: 0
+  - key: "\u652F\u7EBF-\u74342"
+    value: 0
+  - key: GameOver1
+    value: 0
+  - key: GameOver2
+    value: 0
+  - key: GameOver3
+    value: 0
+  - key: GameOver4
+    value: 0
+  - key: GameOver5
+    value: 0
+  - key: GameOver6
+    value: 0
+  - key: GameOver7
+    value: 0
+  - key: GameOver8
+    value: 0
+  - key: GameOver9
+    value: 0
+  - key: NE Clear
+    value: 0
+  - key: "MIRA\u5B58\u6D3B"
+    value: 0
+  - key: CG3-CH-MIRROR
+    value: 0
+  - key: CG2-CH-MIRROR
+    value: 0
+  - key: "DE\u6536\u96C6"
+    value: 0
