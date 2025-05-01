@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001a27562e6b8d74bb1523afa8c71aba, type: 3}
+  m_Name: chinese
+  m_EditorClassIdentifier: 
+  id: C1
+  datalist:
+  - id: map.garden2
+    value: "\u6D4B\u8BD5\u5730\u56FE2"
+  - id: map.garden2.1
+    value: "\u65E0\u9650\u91CD\u590D\u7684\u4E92\u52A8\u6D4B\u8BD5"
+  - id: map.garden2.2
+    value: "\u67E5\u627E\u5168\u5C40\u53D8\u91CF \n#d(d1)\n#i(i1)\n#v3(vec3_1)"
+  - id: map.garden2.3
+    value: "\u672C\u573A\u666F\u6709\u4E00\u4E2A\u5E76\u884C\u5904\u7406\u81EA\u52A8\u4E8B\u4EF6\n\u6BCF\u9694\u4E00\u79D2\u5728\u63A7\u5236\u53F0\u6253\u51FA\u4E00\u4E2A\u8F93\u51FA"
+  lang: 0

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4857f10a2f9d7414f9ac760b68599224, type: 3}
+  m_Name: system
+  m_EditorClassIdentifier: 
+  id: 
+  datalist:
+  - id: chinese
+    value: {fileID: 11400000, guid: 3e93d915cf89e4a40939ac78a6e335e2, type: 2}
+  - id: chinese
+    value: {fileID: 11400000, guid: 8a0580226ff2eb249afa904577a408da, type: 2}
+  - id: chinese
+    value: {fileID: 11400000, guid: 1a65c70682739584ba7b56de303dc5c5, type: 2}
+  - id: chinese
+    value: {fileID: 11400000, guid: 14e6439af8e13f549a86ed9561a9977a, type: 2}
+  - id: chinese
+    value: {fileID: 11400000, guid: 85a626d11e2f5524b8f9c832ea2dbc41, type: 2}
+  - id: chinese
+    value: {fileID: 11400000, guid: 53c38430fd5a2964c8a2831557a4fd71, type: 2}
+  - id: prefab
+    value: {fileID: 11400000, guid: d0de1ad3d7d718d4da0ecf88e86a70a1, type: 2}
+  - id: image
+    value: {fileID: 11400000, guid: 60d5c3da637e64b4086ece54c02c5aab, type: 2}
+  - id: audio
+    value: {fileID: 11400000, guid: 5e261687b1c81f24a8bc64a4238bca38, type: 2}

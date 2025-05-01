@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001a27562e6b8d74bb1523afa8c71aba, type: 3}
+  m_Name: questText
+  m_EditorClassIdentifier: 
+  id: 
+  datalist:
+  - id: quest.q1s3
+    value: "\u56DE\u5230\u623F\u95F4"
+  - id: quest.q1s2
+    value: "\u62FF\u5230\u94A5\u5319"
+  - id: quest.q1s1
+    value: "\u627E\u5230\u81EA\u5DF1\u7684\u623F\u95F4"
+  - id: quest.d1
+    value: "\u8336\u4F1A\u4E0D\u6B22\u800C\u6563\u2026\u2026\u5148\u56DE\u5230\u623F\u95F4\u91CC\u5427\uFF01"
+  - id: quest.q1
+    value: "\u81EA\u5DF1\u7684\u623F\u95F4"
+  lang: 0

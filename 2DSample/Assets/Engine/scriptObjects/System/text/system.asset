@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001a27562e6b8d74bb1523afa8c71aba, type: 3}
+  m_Name: system
+  m_EditorClassIdentifier: 
+  id: chinese1
+  datalist:
+  - id: sys.outTeam
+    value: "\u79BB\u5F00\u4E86\u961F\u4F0D\u3002"
+  - id: sys.inTeam
+    value: "\u52A0\u5165\u4E86\u961F\u4F0D\uFF01"
+  - id: vane
+    value: "\u74E6\u59AE\u838E"
+  - id: charlotte
+    value: "\u590F\u6D1B\u7279"
+  - id: candohint.talk
+    value: "\u5BF9 \u8BDD"
+  - id: quest.hard
+    value: "\u96BE\u5EA6\uFF1A"
+  - id: quest.desc
+    value: "\u8BF4\u660E\uFF1A"
+  - id: quest.steps
+    value: "\u6B65\u9AA4\uFF1A"
+  - id: candohint.save
+    value: "\u5B58 \u6863"
+  - id: candohint.find
+    value: "\u8C03 \u67E5"
+  - id: sys.yes
+    value: "\u786E\u5B9A"
+  - id: sys.no
+    value: "\u53D6\u6D88"
+  - id: quest.all
+    value: "\u5168\u90E8\u4EFB\u52A1"
+  - id: quest.fail
+    value: "\u5DF2\u5931\u8D25"
+  - id: quest.done
+    value: "\u5DF2\u5B8C\u6210"
+  - id: quest.ing
+    value: "\u8FDB\u884C\u4E2D"
+  - id: sys.item
+    value: "\u7269\u54C1"
+  - id: sys.keyitem
+    value: "\u7B14\u8BB0"
+  - id: sys.hiddenB
+    value: "\u793C\u7269"
+  - id: sys.hiddenA
+    value: "\u6599\u7406"
+  - id: sys.dash
+    value: "\u603B\u662F\u8DD1\u6B65"
+  - id: sys.auto
+    value: "\u81EA\u52A8\u5BF9\u8BDD"
+  - id: sys.size
+    value: "\u7A97\u53E3\u5C3A\u5BF8"
+  - id: sys.bgm
+    value: "BGM\u97F3\u91CF"
+  - id: sys.SE
+    value: "SE\u97F3\u91CF"
+  - id: sys.language
+    value: "\u8BED\u8A00\u9009\u62E9"
+  - id: sys.loadtext
+    value: "\u8BFB\u53D6\u8FD9\u4E2A\u5B58\u6863\u5417\uFF1F"
+  - id: sys.savetext
+    value: "\u8986\u76D6\u8FD9\u4E2A\u5B58\u6863\u5417\uFF1F"
+  - id: sys.deletext
+    value: "\u5220\u9664\u8FD9\u4E2A\u5B58\u6863\u5417\uFF1F"
+  - id: sys.selehelp
+    value: "\u8BF7\u9009\u62E9\u4E00\u4E2A\u5B58\u6863\u3002"
+  - id: sys.loadhelp
+    value: "\u8BFB\u53D6\u5B58\u6863\u3002"
+  - id: sys.savehelp
+    value: "\u4FDD\u5B58\u8FDB\u5EA6\u3002"
+  - id: sys.delehelp
+    value: "\u5220\u9664\u5B58\u6863\u3002"
+  - id: sys.yepload
+    value: "\u8BFB\u53D6"
+  - id: sys.yepsave
+    value: "\u4FDD\u5B58"
+  - id: sys.yepdele
+    value: "\u5220\u9664"
+  - id: sys.new
+    value: "\u8336\u4F1A\u5F00\u59CB"
+  - id: sys.conti
+    value: "\u7EE7\u7EED\u8336\u4F1A"
+  - id: sys.opt
+    value: "\u73AF\u5883\u8BBE\u5B9A"
+  lang: 0

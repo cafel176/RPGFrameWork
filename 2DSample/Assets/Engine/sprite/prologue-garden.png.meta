@@ -1,0 +1,1034 @@
+fileFormatVersion: 2
+guid: 88ca9612f6bc6fe4f84e6f7e74acc466
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: prologue-garden_0
+  - first:
+      213: 21300002
+    second: prologue-garden_1
+  - first:
+      213: 21300004
+    second: prologue-garden_2
+  - first:
+      213: 21300006
+    second: prologue-garden_3
+  - first:
+      213: 21300008
+    second: prologue-garden_4
+  - first:
+      213: 21300010
+    second: prologue-garden_5
+  - first:
+      213: 21300012
+    second: prologue-garden_6
+  - first:
+      213: 21300014
+    second: prologue-garden_7
+  - first:
+      213: 21300016
+    second: prologue-garden_8
+  - first:
+      213: 21300018
+    second: prologue-garden_9
+  - first:
+      213: 21300020
+    second: prologue-garden_10
+  - first:
+      213: 21300022
+    second: prologue-garden_11
+  - first:
+      213: 21300024
+    second: prologue-garden_12
+  - first:
+      213: 21300026
+    second: prologue-garden_13
+  - first:
+      213: 21300028
+    second: prologue-garden_14
+  - first:
+      213: 21300030
+    second: prologue-garden_15
+  - first:
+      213: 21300032
+    second: prologue-garden_16
+  - first:
+      213: 21300034
+    second: prologue-garden_17
+  - first:
+      213: 21300036
+    second: prologue-garden_18
+  - first:
+      213: 21300038
+    second: prologue-garden_19
+  - first:
+      213: 21300040
+    second: prologue-garden_20
+  - first:
+      213: 21300042
+    second: prologue-garden_21
+  - first:
+      213: 21300044
+    second: prologue-garden_22
+  - first:
+      213: 21300046
+    second: prologue-garden_23
+  - first:
+      213: 21300048
+    second: prologue-garden_24
+  - first:
+      213: 21300050
+    second: prologue-garden_25
+  - first:
+      213: 21300052
+    second: prologue-garden_26
+  - first:
+      213: 21300054
+    second: prologue-garden_27
+  - first:
+      213: 21300056
+    second: prologue-garden_28
+  - first:
+      213: 21300058
+    second: prologue-garden_29
+  - first:
+      213: 21300060
+    second: prologue-garden_30
+  - first:
+      213: 21300062
+    second: prologue-garden_31
+  - first:
+      213: 21300064
+    second: prologue-garden_32
+  - first:
+      213: 21300066
+    second: prologue-garden_33
+  - first:
+      213: 21300068
+    second: prologue-garden_34
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prologue-garden_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 726
+        width: 46
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4707834, y: 0.19455858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e267054d2a324a9457411dc5c16b7
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 772
+        width: 72
+        height: 56
+      alignment: 9
+      pivot: {x: 0.48133406, y: 0.33200726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79699e8636509e4486da38ef58ddb8f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 721
+        width: 137
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2667539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a57816735db65149960099145cb49b6
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 736
+        width: 144
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20822304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22b4ce267360be46aff5cc9501818a5
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_4
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 744
+        width: 72
+        height: 56
+      alignment: 9
+      pivot: {x: 0.50000083, y: 0.26001087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7235521e8b36bdd42b1d2a81f00d2e54
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_5
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 726
+        width: 46
+        height: 88
+      alignment: 9
+      pivot: {x: 0.44156814, y: 0.20983054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1effda002a5c34d8042ec59d2a90c3
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 697
+        width: 72
+        height: 56
+      alignment: 9
+      pivot: {x: 0.51866597, y: 0.30800846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4443abd2a6af544bce6f7851e14f65
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 722
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4720014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbbbb65034d41c4eaf2afe5f5c87523
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 528
+        width: 43
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3d98920d6d744192ea31a6591f194
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 526
+        width: 76
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15035589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b22299bac00c74080d6a8504b102cf
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 503
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e2866b62d6d944a9cfb12dcc38f246
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 503
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14797503c00b1754c82999e35f8770a6
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_12
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 503
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0d0f8652f545a4b9b7df83a0e788d7
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_13
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 528
+        width: 76
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5000008, y: 0.19406153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5819e17a00013b42a3cc4083d7f9146
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_14
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 528
+        width: 43
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ffd12fc099e44b85e06a7b2f342b0
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 388
+        width: 46
+        height: 88
+      alignment: 9
+      pivot: {x: 0.52921575, y: 0.22510251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461fa66afb866f04a944587389c7ce07
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 336
+        width: 76
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5176835, y: 0.18313524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca887b36db79dd4b978fb4a879c3beb
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 362
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf74ecb7238724e895786eed763ac6
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 432
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65726b3d73a9f544e8f2d7ef4ac1bf3b
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_19
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 402
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8703bf252535ed4598f003d7912947f
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_20
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 338
+        width: 76
+        height: 123
+      alignment: 9
+      pivot: {x: 0.51768416, y: 0.19406153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a83f80f4cbca84586a11c0b0aa0c9c
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 388
+        width: 46
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20983054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f9df46a2e778047bdefb34b3a4fe6f
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 192
+        width: 43
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41435e966cab8f54a8fc8b0563033b56
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 142
+        width: 76
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5176835, y: 0.12850319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f51225ccfda4e41983c929252a08cb
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 262
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a5004d681dc743b6ef646ebae743b
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_25
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 262
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b797c7089c3c974aa904eeb0d682ed1
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_26
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 262
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d0c106b3720604c9eb3f29eeb8cb34
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 262
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d0bb0f5d25624584cd270c46e5a0d
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_28
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 144
+        width: 76
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5000008, y: 0.1394296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dacc8d758cd2ca4ea82d92dd2018788
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_29
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 192
+        width: 43
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366142e0dc22ef439a9e48cf1c0fdfb
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff3d8f97a29004abd8e84095013bc6
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ede39309547a4f84c889d1cb3f7da
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 98
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67df59253b021554087127acea14d2ea
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_33
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 98
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f079d6396a2d1248a55cd57bfc2da65
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prologue-garden_34
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 98
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a81266f294cd14a902ff10ad009832
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ba8ef7b2ff582e74a8cc494d0461804b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      prologue-garden_10: 21300020
+      prologue-garden_0: 21300000
+      prologue-garden_20: 21300040
+      prologue-garden_22: 21300044
+      prologue-garden_4: 21300008
+      prologue-garden_16: 21300032
+      prologue-garden_17: 21300034
+      prologue-garden_7: 21300014
+      prologue-garden_27: 21300054
+      prologue-garden_23: 21300046
+      prologue-garden_25: 21300050
+      prologue-garden_9: 21300018
+      prologue-garden_13: 21300026
+      prologue-garden_15: 21300030
+      prologue-garden_11: 21300022
+      prologue-garden_18: 21300036
+      prologue-garden_3: 21300006
+      prologue-garden_33: 21300066
+      prologue-garden_34: 21300068
+      prologue-garden_31: 21300062
+      prologue-garden_8: 21300016
+      prologue-garden_29: 21300058
+      prologue-garden_14: 21300028
+      prologue-garden_30: 21300060
+      prologue-garden_6: 21300012
+      prologue-garden_2: 21300004
+      prologue-garden_12: 21300024
+      prologue-garden_24: 21300048
+      prologue-garden_5: 21300010
+      prologue-garden_21: 21300042
+      prologue-garden_1: 21300002
+      prologue-garden_26: 21300052
+      prologue-garden_32: 21300064
+      prologue-garden_19: 21300038
+      prologue-garden_28: 21300056
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,833 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46155c882dbf8b84198ce7fc1da44de2, type: 3}
+  m_Name: auto Event
+  m_EditorClassIdentifier: 
+  conditions:
+  - type: 3
+    name: A
+    thisConnect: 0
+    compare: 2
+    value: false
+  howToStart: 3
+  list:
+  - type: 11
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 61
+    str2: 
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 13
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p1
+    str2: intro-1
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 255
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 5
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 1
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 19
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 10start.pro001
+    str2: 10start.pro001
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 200}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 19
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 10start.pro002
+    str2: 10start.pro002
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 200}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 13
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p2
+    str2: intro-2
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 1
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 14
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p2
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 255
+    float2: 3
+    int1: 1
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 19
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 10start.pro003
+    str2: 10start.pro003
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 200}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 19
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 10start.pro004
+    str2: 10start.pro004
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 200}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 19
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 10start.pro005
+    str2: 10start.pro005
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 200}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 13
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p3
+    str2: intro-3
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 2
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 14
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p3
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 255
+    float2: 1
+    int1: 2
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 19
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 10start.pro006
+    str2: 10start.pro006
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 200}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 19
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 10start.pro007
+    str2: 10start.pro007
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 200}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 13
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p4
+    str2: paper
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 3
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 14
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p4
+    str2: 
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 255
+    float2: 1
+    int1: 3
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 13
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p5
+    str2: intro-4
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 4
+    int2: 0
+    vec2_1: {x: 0, y: -344}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 14
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p5
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 255
+    float2: 8
+    int1: 4
+    int2: 0
+    vec2_1: {x: 0, y: 344}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 19
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 10start.pro008
+    str2: 10start.pro008
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 200}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 19
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 10start.pro009
+    str2: 10start.pro009
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 200}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 4
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 2
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 19
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 10start.pro010
+    str2: 10start.pro010
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 200}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 12
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 3
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 15
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p1
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 15
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p2
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 1
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 15
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p3
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 2
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 15
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p4
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 3
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 15
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: p5
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 4
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 17
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: 
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - type: 3
+    howToCal: 0
+    independentSwitch: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    condition:
+      type: 0
+      name: 
+      thisConnect: 0
+      compare: 0
+      value: 
+    helper: {fileID: 0}
+    str1: 
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 3
+    float2: 0
+    int1: 0
+    int2: 0
+    vec2_1: {x: 0, y: 0}
+    vec2_2: {x: 0, y: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  independentSwitchs: 00000000

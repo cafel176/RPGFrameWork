@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a510652ea6984664a9341e46263bd540, type: 3}
+  m_Name: npc1
+  m_EditorClassIdentifier: 
+  id: npc1
+  datalist:
+  - id: 
+    name: 
+    text: 
+    img: {fileID: 0}
+    type: 0
+    str1: 
+    str2: 
+    bool1: 1
+    bool2: 0
+    bool3: 0
+    bool4: 1
+    float1: 1
+    float2: 2
+    float3: 0
+    float4: 0
+    img1: {fileID: 21300008, guid: 774813e9fd619884a99cee260b21f7d9, type: 3}
+    img2: {fileID: 21300020, guid: 774813e9fd619884a99cee260b21f7d9, type: 3}
+    img3: {fileID: 21300002, guid: 774813e9fd619884a99cee260b21f7d9, type: 3}
+    turn: 1
+  - id: 
+    name: 
+    text: 
+    img: {fileID: 0}
+    type: 2
+    str1: 
+    str2: 
+    bool1: 1
+    bool2: 0
+    bool3: 0
+    bool4: 0
+    float1: 0
+    float2: 0
+    float3: 0
+    float4: 0
+    img1: {fileID: 0}
+    img2: {fileID: 0}
+    img3: {fileID: 0}
+    turn: 0

@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46155c882dbf8b84198ce7fc1da44de2, type: 3}
+  m_Name: autoEvent
+  m_EditorClassIdentifier: 
+  id: auto1
+  nodes:
+  - id: root
+    childrenID:
+    - 1627499581
+    parentsID: []
+    helper: {fileID: 0}
+    type: 13
+    howToCal: 0
+    independentSwitch: 0
+    compare: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    conditionType: 0
+    str1: 1
+    str2: intro1_1
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 255
+    float2: 0
+    int1: 0
+    vec1: {x: 0, y: 0, z: 0}
+    vec2: {x: 0, y: 0, z: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - id: 1627499581
+    childrenID:
+    - 1627503233
+    parentsID:
+    - root
+    helper: {fileID: 0}
+    type: 13
+    howToCal: 0
+    independentSwitch: 0
+    compare: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    conditionType: 0
+    str1: 2
+    str2: intro1_2
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 255
+    float2: 0
+    int1: 0
+    vec1: {x: 0, y: 0, z: 0}
+    vec2: {x: 0, y: 0, z: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - id: 1627503233
+    childrenID:
+    - 1627503595
+    - 1627503559
+    parentsID:
+    - 1627499581
+    helper: {fileID: 0}
+    type: 46
+    howToCal: 0
+    independentSwitch: 0
+    compare: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    conditionType: 0
+    str1: 1
+    str2: nextBtn
+    str3: 1627503595
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    vec1: {x: 771, y: -364, z: 0}
+    vec2: {x: 0, y: 0, z: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - id: 1627503595
+    childrenID:
+    - 1627508035
+    parentsID:
+    - 1627503233
+    helper: {fileID: 0}
+    type: 4
+    howToCal: 0
+    independentSwitch: 0
+    compare: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    conditionType: 0
+    str1: 111
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 1
+    float2: 0
+    int1: 0
+    vec1: {x: 0, y: 0, z: 0}
+    vec2: {x: 0, y: 0, z: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - id: 1627508035
+    childrenID:
+    - 1627508593
+    parentsID:
+    - 1627503595
+    helper: {fileID: 0}
+    type: 15
+    howToCal: 0
+    independentSwitch: 0
+    compare: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    conditionType: 0
+    str1: 1
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 1
+    float2: 0
+    int1: 0
+    vec1: {x: 0, y: 0, z: 0}
+    vec2: {x: 0, y: 0, z: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - id: 1627508593
+    childrenID:
+    - 1627508617
+    parentsID:
+    - 1627508035
+    helper: {fileID: 0}
+    type: 15
+    howToCal: 0
+    independentSwitch: 0
+    compare: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    conditionType: 0
+    str1: 2
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    vec1: {x: 0, y: 0, z: 0}
+    vec2: {x: 0, y: 0, z: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - id: 1627508617
+    childrenID:
+    - 1627510947
+    parentsID:
+    - 1627508593
+    helper: {fileID: 0}
+    type: 47
+    howToCal: 0
+    independentSwitch: 0
+    compare: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    conditionType: 0
+    str1: 1
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    vec1: {x: 0, y: 0, z: 0}
+    vec2: {x: 0, y: 0, z: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - id: 1627510947
+    childrenID: []
+    parentsID:
+    - 1627508617
+    helper: {fileID: 0}
+    type: 17
+    howToCal: 0
+    independentSwitch: 0
+    compare: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    conditionType: 0
+    str1: 
+    str2: 
+    str3: 
+    str4: 
+    bool1: 1
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    vec1: {x: 0, y: 0, z: 0}
+    vec2: {x: 0, y: 0, z: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  - id: 1627503559
+    childrenID: []
+    parentsID:
+    - 1627503233
+    helper: {fileID: 0}
+    type: 0
+    howToCal: 0
+    independentSwitch: 0
+    compare: 0
+    turn: 0
+    weather: 0
+    findType: 0
+    questStatus: 0
+    conditionType: 0
+    str1: 
+    str2: 
+    str3: 
+    str4: 
+    bool1: 0
+    bool2: 0
+    float1: 0
+    float2: 0
+    int1: 0
+    vec1: {x: 0, y: 0, z: 0}
+    vec2: {x: 0, y: 0, z: 0}
+    color1: {r: 0, g: 0, b: 0, a: 0}
+  conditions: []
+  howToStart: 3
